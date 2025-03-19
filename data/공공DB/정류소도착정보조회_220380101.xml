@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+
+<response>
+<header>
+<resultCode>00</resultCode>
+<resultMsg>NORMAL SERVICE</resultMsg>
+</header>
+<body>
+<items>
+<item>
+<arsno> </arsno>
+<bstopid>220380101</bstopid>
+<lineno>134</lineno>
+<nodenm>용당동</nodenm>
+<bstopidx>1</bstopidx>
+<gpsx>129.094741842594</gpsx>
+<gpsy>35.115849067152</gpsy>
+<bustype>일반버스</bustype>
+<lineid>5200134000</lineid>
+</item>
+<item>
+<arsno> </arsno>
+<bstopid>220380101</bstopid>
+<lineno>168</lineno>
+<nodenm>용당동</nodenm>
+<bstopidx>1</bstopidx>
+<gpsx>129.094741842594</gpsx>
+<gpsy>35.115849067152</gpsy>
+<bustype>일반버스</bustype>
+<lineid>5200168000</lineid>
+</item>
+<item>
+<arsno> </arsno>
+<bstopid>220380101</bstopid>
+<lineno>583</lineno>
+<nodenm>용당동</nodenm>
+<bstopidx>1</bstopidx>
+<gpsx>129.094741842594</gpsx>
+<gpsy>35.115849067152</gpsy>
+<bustype>일반버스</bustype>
+<lineid>5200583000</lineid>
+</item>
+<item>
+<arsno> </arsno>
+<bstopid>220380101</bstopid>
+<lineno>68</lineno>
+<nodenm>용당동</nodenm>
+<bstopidx>1</bstopidx>
+<gpsx>129.094741842594</gpsx>
+<gpsy>35.115849067152</gpsy>
+<bustype>일반버스</bustype>
+<lineid>5200068000</lineid>
+</item>
+</items>
+</body>
+</response>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+
+<response>
+<header>
+<resultCode>00</resultCode>
+<resultMsg>NORMAL SERVICE</resultMsg>
+</header>
+<body>
+<items>
+<item>
+<bstopid>188090203</bstopid>
+<bstopnm>신평배고개</bstopnm>
+<arsno>10056</arsno>
+<gpsx>128.978607912894</gpsx>
+<gpsy>35.096154747212</gpsy>
+<stoptype>일반</stoptype>
+</item>
+<item>
+<bstopid>188090402</bstopid>
+<bstopnm>신평배고개</bstopnm>
+<arsno>10057</arsno>
+<gpsx>128.977477748123</gpsx>
+<gpsy>35.095768877108</gpsy>
+<stoptype>일반</stoptype>
+</item>
+</items>
+<numOfRows>10</numOfRows>
+<pageNo>1</pageNo>
+<totalCount>2</totalCount>
+</body>
+</response>
